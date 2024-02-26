@@ -1,2 +1,1 @@
-# CV
-Built with vanilla HTML and CSS
+Hosting Site: https://tamjid17.github.io/CV
